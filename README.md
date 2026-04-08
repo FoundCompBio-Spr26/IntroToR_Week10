@@ -474,14 +474,8 @@ t.test(weight[Time == 14 & Diet == 1],
 
 # Practice Exercises
 
-## Exercise 1 - Learning about BREC Parks
+## Exploring Open Data from Baton Rouge
 
-1. Download the BREC parks dataset, "BREC_Park_Amenities_20240409.csv", available in this repository. These data were originally downloaded from [Baton Rouge's Official Open Data Portal](https://data.brla.gov/)
-2. Create a new R script to analyze these data.
-3. Read the data into R.
-4. What type of R object is your dataset when it is first read in?
-5. Focusing on the acreage data, count how many parks are at least 5 acres in size.
-6. Print out the names of those parks that are at least 5 acres.
-7. What is the average acreage of all parks?
-8. Which of the parks are classified as golf courses?
-9. Which of the golf courses is biggest? Which is smallest?
+1. Find an interesting dataset on [Baton Rouge's Official Open Data Portal](https://data.brla.gov/). An example involving tax revenue is linked [here]().
+
+2. Explore the data and create an informative plot. What's the most interesting thing you can find? What's the most visually appealing plot you can create?
