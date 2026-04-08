@@ -476,6 +476,6 @@ t.test(weight[Time == 14 & Diet == 1],
 
 ## Exploring Open Data from Baton Rouge
 
-1. Find an interesting dataset on [Baton Rouge's Official Open Data Portal](https://data.brla.gov/). An example involving tax revenue is linked [here](https://raw.githubusercontent.com/FoundCompBio-Spr26/IntroToR_Week10/refs/heads/main/Sales_Tax_Collections_20260407.csv).
+1. Find an interesting dataset on [Baton Rouge's Official Open Data Portal](https://data.brla.gov/). An example involving tax revenue is linked [here](https://raw.githubusercontent.com/FoundCompBio-Spr26/IntroToR_Week10/refs/heads/main/Sales_Tax_Collections_20260408.csv).
 
 2. Explore the data and create an informative plot. What's the most interesting thing you can find? What's the most visually appealing plot you can create?
