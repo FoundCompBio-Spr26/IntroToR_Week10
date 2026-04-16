@@ -66,19 +66,19 @@ The fundamental data types in R are very similar to Python: double, integer, log
 ```
 myNum <- 4.5
 class(myNum) # numeric
-is.double(myNum) # TRUE
+is.double(myNum) # TRUE                 *double is the same*
 
 myInt <- 8L # The L specifies that the 8 is an integer
 class(myInt) # integer
-is.integer(myInt) # TRUE
+is.integer(myInt) # TRUE       
 
 myLogical <- TRUE
 class(myLogical) # logical
-is.logical(myLogical) # TRUE
+is.logical(myLogical) # TRUE              *booleans are called logicals*
 
 myStr <- "exampleString"
 class(myStr) # character
-is.character(myStr) # TRUE
+is.character(myStr) # TRUE             *strings are called characters*
 ```
 
 All of the standard mathematical operations are available for numeric variables and values
